@@ -5,7 +5,7 @@ As a fellow validator, I understand how demanding and time-consuming it can be t
 
 Today, I’m excited to introduce my new Telegram bot:
 
-👉 Node39 Cosmos Monitor Bot
+👉 [Node39 Cosmos Monitor Bot](https://t.me/node39_cosmos_monitor_bot)
 
 ⸻
 
