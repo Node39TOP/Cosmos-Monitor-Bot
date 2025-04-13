@@ -1,3 +1,7 @@
+📅 2025-04-13 - Version 4.19
+• Add Menu Changelog.
+• Fix some minor bugs.
+
 📅 2025-04-12 - Version 4.18
 • Bug fix — Thank you NodeSync.TOP!
 
