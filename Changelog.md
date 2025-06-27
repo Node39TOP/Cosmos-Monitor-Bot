@@ -1,3 +1,8 @@
+📅 2025-06-27 - Version 4.19
+• Fix some minor bugs.
+• Edit Votings api.
+• Edit UI/UX
+
 📅 2025-04-13 - Version 4.19
 • Add Menu Changelog.
 • Fix some minor bugs.
