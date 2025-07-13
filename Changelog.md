@@ -1,3 +1,6 @@
+📅 2025-07-13 - Version 4.20
+• Fix bug Voting start/end.
+
 📅 2025-06-27 - Version 4.19
 • Fix some minor bugs.
 • Edit Votings api.
